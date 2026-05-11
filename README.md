@@ -81,8 +81,19 @@ All examples and terminology are provided for public documentation purposes only
 
 ---
 
+# Related Projects
+
+- rsif-specification
+- rsif-vocabulary
+- rsif-examples
+- rsif-docs
+- imaging-semantics
+
+This repository describes public semantic concepts related to anonymized imaging workflows and AI-readable structured imaging data.
+
+---
+
 # Links
 
-RU: https://resetray.ru
-
+RU: https://resetray.ru  
 COM: https://resetray.com
