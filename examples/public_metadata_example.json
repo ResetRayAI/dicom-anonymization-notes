@@ -1,0 +1,16 @@
+{
+  "metadata_status": "anonymized",
+
+  "removed_fields_examples": [
+    "PatientName",
+    "PatientID",
+    "InstitutionName",
+    "ReferringPhysicianName"
+  ],
+
+  "uid_strategy": "replacement_or_removal",
+
+  "scope": "public_semantic_example",
+
+  "not_production_logic": true
+}
