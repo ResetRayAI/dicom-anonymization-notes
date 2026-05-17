@@ -56,6 +56,10 @@ This repository is intended for:
 - AI-readable anonymization concepts;
 - structured export semantics.
 
+This repository follows the doctrine:
+
+quantitative observations ≠ medical conclusions
+
 This repository is NOT intended for:
 
 - regulatory compliance guarantees;
@@ -88,7 +92,7 @@ All examples and terminology are provided for public documentation purposes only
 - rsif-examples
 - rsif-docs
 - imaging-semantics
-
+- resetray-manifest
 
 This repository describes public semantic concepts related to anonymized imaging workflows and AI-readable structured imaging data.
 
@@ -98,15 +102,16 @@ This repository describes public semantic concepts related to anonymized imaging
 
 Canonical documentation:
 
-https://docs.resetray.ru
+https://docs.resetray.com/
 
-Semantic ecosystem:
+Vocabulary context:
 
-https://docs.resetray.ru/ecosystem/
+https://docs.resetray.com/vocabulary/context.jsonld
 
+LLMs guidance:
 
+https://docs.resetray.com/llms.txt
 
+GitHub Organization:
 
-RU: https://resetray.ru
-
-COM: https://resetray.com
+https://github.com/ResetRayAI
